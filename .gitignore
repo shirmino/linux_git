@@ -1,0 +1,12 @@
+# ETL generated data
+raw/
+Transformed/
+Gold/
+json_and_CSV_old/
+json_and_CSV/
+
+# ETL logs
+*.log
+
+# Keep Git's .gitignore itself tracked
+!.gitignore
