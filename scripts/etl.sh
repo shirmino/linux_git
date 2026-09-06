@@ -40,7 +40,7 @@ fi
 ###############################################################################
 
 # Determine the directory where the script is located.
-PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
 # Define the directories required for the ETL process.
 RAW_DIR="$PROJECT_DIR/raw"
