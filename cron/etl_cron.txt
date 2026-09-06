@@ -1,0 +1,1 @@
+0 0 * * * cd "/mnt/c/Users/User/Desktop/linux_git" && /bin/bash scripts/etl.sh >> "/mnt/c/Users/User/Desktop/linux_git/etl.log" 2>&1
