@@ -1,0 +1,26 @@
+[
+  {
+    "employee_id": 201,
+    "name": "Lucas Oliveira",
+    "department": "Data Engineering",
+    "salary": 7200
+  },
+  {
+    "employee_id": 202,
+    "name": "Mariana Alves",
+    "department": "Analytics",
+    "salary": 6800
+  },
+  {
+    "employee_id": 203,
+    "name": "Rafael Lima",
+    "department": "IT",
+    "salary": 6100
+  },
+  {
+    "employee_id": 204,
+    "name": "Juliana Souza",
+    "department": "Finance",
+    "salary": 5900
+  }
+]

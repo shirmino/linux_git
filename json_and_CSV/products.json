@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": "P001",
+    "product": "Laptop",
+    "category": "Electronics",
+    "price": 3500,
+    "in_stock": true
+  },
+  {
+    "product_id": "P002",
+    "product": "Mouse",
+    "category": "Accessories",
+    "price": 120,
+    "in_stock": true
+  },
+  {
+    "product_id": "P003",
+    "product": "Keyboard",
+    "category": "Accessories",
+    "price": 250,
+    "in_stock": false
+  },
+  {
+    "product_id": "P004",
+    "product": "Monitor",
+    "category": "Electronics",
+    "price": 1800,
+    "in_stock": true
+  }
+]
