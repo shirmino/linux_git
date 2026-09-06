@@ -71,9 +71,9 @@ find "$SOURCE_DIR" -maxdepth 1 -type f -iname "*.json" -exec mv {} "$DEST_DIR/" 
 total_count=$((csv_count + json_count))
 
 echo ""
-echo "============================================================"
+echo "============================================================="
 echo "MOVE SUMMARY"
-echo "============================================================"
+echo "============================================================="
 
 echo "CSV files moved:   $csv_count"
 echo "JSON files moved:  $json_count"
