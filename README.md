@@ -40,12 +40,15 @@ linux_git/
 │   ├── example.csv
 │   └── example.json
 │
+│── json_and_CSV/
+│
+│
 ├── scripts/
 │   ├── etl.sh
 │   └── move_files.sh
 │
-├── logs/
-│   └── etl.log
+├── etl.log
+│
 │
 ├── .gitignore
 └── README.md
